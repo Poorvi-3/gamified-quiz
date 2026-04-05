@@ -1,7 +1,7 @@
 # ⚡ QuizVerse — Play. Learn. Compete.
 
 A gamified online quiz system built with HTML, CSS and vanilla JavaScript.
-Inspired by the project presentation by C Bimbitha & R K Poorvi.
+
 
 ## 🚀 Features
 - ☕ Java Fundamentals Quiz (10 questions)
