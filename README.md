@@ -34,10 +34,8 @@ quizverse/
 3. Done! Runs at `http://localhost:5500`
 
 ### Online (share with anyone)
-1. Go to https://app.netlify.com/drop
-2. Drag the entire `quizverse/` folder onto the page
-3. Get a public URL instantly — works on any device, any network
-
+1. Go to http://gamefied-quiz.netlify.app
+   
 ### GitHub Pages
 1. Push this folder to a GitHub repo
 2. Settings → Pages → Branch: main → Save
